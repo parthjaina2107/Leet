@@ -29,12 +29,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/parthjaina2107/Leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/parthjaina2107/Leet/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/parthjaina2107/Leet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0344-reverse-string](https://github.com/parthjaina2107/Leet/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/parthjaina2107/Leet/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/parthjaina2107/Leet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/parthjaina2107/Leet/tree/master/0043-multiply-strings) |
+| [0344-reverse-string](https://github.com/parthjaina2107/Leet/tree/master/0344-reverse-string) |
 ## String Matching
 |  |
 | ------- |
