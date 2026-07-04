@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/parthjaina2107/Leet/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/parthjaina2107/Leet/tree/master/0013-roman-to-integer) |
+| [0383-ransom-note](https://github.com/parthjaina2107/Leet/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/parthjaina2107/Leet/tree/master/0043-multiply-strings) |
 | [0344-reverse-string](https://github.com/parthjaina2107/Leet/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/parthjaina2107/Leet/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/parthjaina2107/Leet/tree/master/0383-ransom-note) |
 ## String Matching
 |  |
 | ------- |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/parthjaina2107/Leet/tree/master/0043-multiply-strings) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/parthjaina2107/Leet/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
