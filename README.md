@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/parthjaina2107/Leet/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/parthjaina2107/Leet/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/parthjaina2107/Leet/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/parthjaina2107/Leet/tree/master/0043-multiply-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/parthjaina2107/Leet/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/parthjaina2107/Leet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/parthjaina2107/Leet/tree/master/0043-multiply-strings) |
 ## String Matching
 |  |
 | ------- |
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/parthjaina2107/Leet/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/parthjaina2107/Leet/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
