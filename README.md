@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/parthjaina2107/Leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/parthjaina2107/Leet/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/parthjaina2107/Leet/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0053-maximum-subarray](https://github.com/parthjaina2107/Leet/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/parthjaina2107/Leet/tree/master/0383-ransom-note) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/parthjaina2107/Leet/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/parthjaina2107/Leet/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
