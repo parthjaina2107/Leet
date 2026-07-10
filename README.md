@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/parthjaina2107/Leet/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/parthjaina2107/Leet/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/parthjaina2107/Leet/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/parthjaina2107/Leet/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/parthjaina2107/Leet/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/parthjaina2107/Leet/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/parthjaina2107/Leet/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
 | ------- |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/parthjaina2107/Leet/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/parthjaina2107/Leet/tree/master/0054-spiral-matrix) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/parthjaina2107/Leet/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
