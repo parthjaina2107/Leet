@@ -16,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/parthjaina2107/Leet/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parthjaina2107/Leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/parthjaina2107/Leet/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/parthjaina2107/Leet/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/parthjaina2107/Leet/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/parthjaina2107/Leet/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/parthjaina2107/Leet/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/parthjaina2107/Leet/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/parthjaina2107/Leet/tree/master/0383-ransom-note) |
 ## Math
 |  |
@@ -75,11 +77,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/parthjaina2107/Leet/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/parthjaina2107/Leet/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/parthjaina2107/Leet/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/parthjaina2107/Leet/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -95,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/parthjaina2107/Leet/tree/master/0231-power-of-two) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/parthjaina2107/Leet/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
