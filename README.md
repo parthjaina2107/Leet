@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/parthjaina2107/Leet/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/parthjaina2107/Leet/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/parthjaina2107/Leet/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/parthjaina2107/Leet/tree/master/0258-add-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/parthjaina2107/Leet/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/parthjaina2107/Leet/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/parthjaina2107/Leet/tree/master/0258-add-digits) |
 ## Counting
 |  |
 | ------- |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/parthjaina2107/Leet/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/parthjaina2107/Leet/tree/master/0229-majority-element-ii) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/parthjaina2107/Leet/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
