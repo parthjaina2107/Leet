@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/parthjaina2107/Leet/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/parthjaina2107/Leet/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/parthjaina2107/Leet/tree/master/0229-majority-element-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/parthjaina2107/Leet/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/parthjaina2107/Leet/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/parthjaina2107/Leet/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/parthjaina2107/Leet/tree/master/0258-add-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/parthjaina2107/Leet/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
 | ------- |
