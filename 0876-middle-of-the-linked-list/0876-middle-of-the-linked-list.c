@@ -12,6 +12,5 @@ struct ListNode* middleNode(struct ListNode* head) {
         fast = fast->next->next;
         slow = slow->next;
     }
-    struct ListNode* final = slow;
     return slow;
 }
