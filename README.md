@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/parthjaina2107/Leet/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/parthjaina2107/Leet/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/parthjaina2107/Leet/tree/master/0258-add-digits) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/parthjaina2107/Leet/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Counting
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/parthjaina2107/Leet/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/parthjaina2107/Leet/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/parthjaina2107/Leet/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/parthjaina2107/Leet/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2487-remove-nodes-from-linked-list](https://github.com/parthjaina2107/Leet/tree/master/2487-remove-nodes-from-linked-list) |
 ## Stack
 |  |
