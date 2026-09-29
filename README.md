@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/parthjaina2107/Leet/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/parthjaina2107/Leet/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/parthjaina2107/Leet/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/parthjaina2107/Leet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/parthjaina2107/Leet/tree/master/0229-majority-element-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/parthjaina2107/Leet/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/parthjaina2107/Leet/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/parthjaina2107/Leet/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/parthjaina2107/Leet/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/parthjaina2107/Leet/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/parthjaina2107/Leet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/parthjaina2107/Leet/tree/master/0229-majority-element-ii) |
 ## Number Theory
 |  |
@@ -146,4 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/parthjaina2107/Leet/tree/master/0234-palindrome-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/parthjaina2107/Leet/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/parthjaina2107/Leet/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
