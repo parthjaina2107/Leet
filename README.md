@@ -49,7 +49,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/parthjaina2107/Leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/parthjaina2107/Leet/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/parthjaina2107/Leet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/parthjaina2107/Leet/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0189-rotate-array](https://github.com/parthjaina2107/Leet/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/parthjaina2107/Leet/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/parthjaina2107/Leet/tree/master/0344-reverse-string) |
@@ -113,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/parthjaina2107/Leet/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/parthjaina2107/Leet/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/parthjaina2107/Leet/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/parthjaina2107/Leet/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/parthjaina2107/Leet/tree/master/0231-power-of-two) |
@@ -131,7 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/parthjaina2107/Leet/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/parthjaina2107/Leet/tree/master/0019-remove-nth-node-from-end-of-list) |
-| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/parthjaina2107/Leet/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0024-swap-nodes-in-pairs](https://github.com/parthjaina2107/Leet/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/parthjaina2107/Leet/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/parthjaina2107/Leet/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/parthjaina2107/Leet/tree/master/0234-palindrome-linked-list) |
