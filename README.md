@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/parthjaina2107/Leet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0086-partition-list](https://github.com/parthjaina2107/Leet/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/parthjaina2107/Leet/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/parthjaina2107/Leet/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/parthjaina2107/Leet/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/parthjaina2107/Leet/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/parthjaina2107/Leet/tree/master/0344-reverse-string) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/parthjaina2107/Leet/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/parthjaina2107/Leet/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/parthjaina2107/Leet/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/parthjaina2107/Leet/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/parthjaina2107/Leet/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/parthjaina2107/Leet/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/parthjaina2107/Leet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/parthjaina2107/Leet/tree/master/0229-majority-element-ii) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/parthjaina2107/Leet/tree/master/0024-swap-nodes-in-pairs) |
 | [0086-partition-list](https://github.com/parthjaina2107/Leet/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/parthjaina2107/Leet/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/parthjaina2107/Leet/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/parthjaina2107/Leet/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/parthjaina2107/Leet/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/parthjaina2107/Leet/tree/master/0234-palindrome-linked-list) |
@@ -161,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/parthjaina2107/Leet/tree/master/0215-kth-largest-element-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/parthjaina2107/Leet/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
