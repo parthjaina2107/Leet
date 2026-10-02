@@ -9,12 +9,10 @@ class Solution:
 
             stack.append(digit)
 
-        # If k is still remaining, remove from the end
         while k > 0:
             stack.pop()
             k -= 1
 
-        # Remove leading zeros
         result = ''.join(stack).lstrip('0')
 
         return result if result else '0'
