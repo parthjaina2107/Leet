@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/parthjaina2107/Leet/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/parthjaina2107/Leet/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/parthjaina2107/Leet/tree/master/0383-ransom-note) |
+| [0402-remove-k-digits](https://github.com/parthjaina2107/Leet/tree/master/0402-remove-k-digits) |
 ## String Matching
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/parthjaina2107/Leet/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/parthjaina2107/Leet/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/parthjaina2107/Leet/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/parthjaina2107/Leet/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/parthjaina2107/Leet/tree/master/0445-add-two-numbers-ii) |
 | [2487-remove-nodes-from-linked-list](https://github.com/parthjaina2107/Leet/tree/master/2487-remove-nodes-from-linked-list) |
 ## Heap (Priority Queue)
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/parthjaina2107/Leet/tree/master/0402-remove-k-digits) |
 | [2487-remove-nodes-from-linked-list](https://github.com/parthjaina2107/Leet/tree/master/2487-remove-nodes-from-linked-list) |
 ## Sliding Window
 |  |
@@ -193,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/parthjaina2107/Leet/tree/master/0020-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/parthjaina2107/Leet/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
