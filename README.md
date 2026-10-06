@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/parthjaina2107/Leet/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/parthjaina2107/Leet/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/parthjaina2107/Leet/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/parthjaina2107/Leet/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/parthjaina2107/Leet/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parthjaina2107/Leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/parthjaina2107/Leet/tree/master/0136-single-number) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/parthjaina2107/Leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/parthjaina2107/Leet/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/parthjaina2107/Leet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/parthjaina2107/Leet/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/parthjaina2107/Leet/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/parthjaina2107/Leet/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/parthjaina2107/Leet/tree/master/0148-sort-list) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/parthjaina2107/Leet/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/parthjaina2107/Leet/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/parthjaina2107/Leet/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/parthjaina2107/Leet/tree/master/0215-kth-largest-element-in-an-array) |
@@ -200,4 +203,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/parthjaina2107/Leet/tree/master/0402-remove-k-digits) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/parthjaina2107/Leet/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/parthjaina2107/Leet/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
