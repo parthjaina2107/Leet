@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/parthjaina2107/Leet/tree/master/0258-add-digits) |
 | [0445-add-two-numbers-ii](https://github.com/parthjaina2107/Leet/tree/master/0445-add-two-numbers-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/parthjaina2107/Leet/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/parthjaina2107/Leet/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/parthjaina2107/Leet/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/parthjaina2107/Leet/tree/master/0258-add-digits) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/parthjaina2107/Leet/tree/master/2181-merge-nodes-in-between-zeros) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/parthjaina2107/Leet/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Counting
 |  |
 | ------- |
