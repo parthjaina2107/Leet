@@ -1,8 +1,4 @@
 struct ListNode *detectCycle(struct ListNode *head) {
-if (head == NULL || head->next == NULL) {
-return NULL;
-}
-
 struct ListNode* slow = head;
 struct ListNode* fast = head;
 
