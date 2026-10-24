@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/parthjaina2107/Leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/parthjaina2107/Leet/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/parthjaina2107/Leet/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/parthjaina2107/Leet/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/parthjaina2107/Leet/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/parthjaina2107/Leet/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/parthjaina2107/Leet/tree/master/0383-ransom-note) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/parthjaina2107/Leet/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/parthjaina2107/Leet/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/parthjaina2107/Leet/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/parthjaina2107/Leet/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/parthjaina2107/Leet/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/parthjaina2107/Leet/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/parthjaina2107/Leet/tree/master/0189-rotate-array) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/parthjaina2107/Leet/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/parthjaina2107/Leet/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/parthjaina2107/Leet/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/parthjaina2107/Leet/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/parthjaina2107/Leet/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/parthjaina2107/Leet/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/parthjaina2107/Leet/tree/master/0203-remove-linked-list-elements) |
@@ -224,4 +227,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/parthjaina2107/Leet/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/parthjaina2107/Leet/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
