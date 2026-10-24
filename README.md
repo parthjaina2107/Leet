@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/parthjaina2107/Leet/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/parthjaina2107/Leet/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/parthjaina2107/Leet/tree/master/0383-ransom-note) |
+| [2716-minimize-string-length](https://github.com/parthjaina2107/Leet/tree/master/2716-minimize-string-length) |
 ## Math
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/parthjaina2107/Leet/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/parthjaina2107/Leet/tree/master/0383-ransom-note) |
 | [0402-remove-k-digits](https://github.com/parthjaina2107/Leet/tree/master/0402-remove-k-digits) |
+| [2716-minimize-string-length](https://github.com/parthjaina2107/Leet/tree/master/2716-minimize-string-length) |
 ## String Matching
 |  |
 | ------- |
